@@ -47,9 +47,13 @@ __４.他者の投稿に対するLike、コメント機能__
 <img width="1440" alt="スクリーンショット 2023-01-06 17 32 05" src="https://user-images.githubusercontent.com/111099062/210962641-9a796a1c-8490-4674-9867-28ced4d09783.png">
 
 
-__５.__
+__５.投稿されたものを管理__
 
-→
+→投稿されたものを誰にも見れないようにしたりできる
+
+<img width="1440" alt="スクリーンショット 2023-01-06 17 37 07" src="https://user-images.githubusercontent.com/111099062/210963708-f02341be-2d68-4443-b12e-cc0f82e17ce6.png">
+
+
 
 
 __６.__
