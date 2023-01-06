@@ -35,6 +35,8 @@ __４.他者の投稿に対するLike、コメント機能__
 
 →コメント欄に打ち込むと打ち込んだアカウント名、投稿した時間等が反映される
 
+<img width="1440" alt="スクリーンショット 2023-01-06 17 31 40" src="https://user-images.githubusercontent.com/111099062/210962446-3f65edd1-e590-4b6a-b5bf-591fdddcd9c1.png">
+
 
 
 
