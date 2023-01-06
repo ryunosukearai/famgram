@@ -64,9 +64,9 @@ __６.登録されたユーザーの管理__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 36 54" src="https://user-images.githubusercontent.com/111099062/210964787-5b139956-971f-4bb6-9ce2-807e45f6ff8c.png">
 <img width="1440" alt="スクリーンショット 2023-01-06 17 43 30" src="https://user-images.githubusercontent.com/111099062/210964802-fe927a70-1570-42fe-a655-230f4823e360.png">
-<img width="1440" alt="スクリーンショット 2023-01-06 17 43 38" src="https://user-images.githubusercontent.c
-<img width="1440" alt="スクリーンショット 2023-01-06 17 43 57" src="https://user-images.githubusercontent.com/111099062/210964819-ffde3bd6-c3d1-4e0d-87d4-c6b034b91620.png">
-om/111099062/210964814-bdf31759-b1b8-4f8e-a4cf-c4d448f62d79.png">
+<img width="1440" alt="スクリーンショット 2023-01-06 17 43 38" src="https://user-images.githubusercontent.com/111099062/210965356-fe65928a-68b6-47e9-a4ec-f5233ed759e4.png">
+<img width="1440" alt="スクリーンショット 2023-01-06 17 43 57" src="https://user-images.githubusercontent.com/111099062/210965364-212e841e-c9d7-46b2-b80d-68b2a5413c4c.png">
+
 
 
 
