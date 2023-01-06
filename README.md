@@ -26,6 +26,9 @@ __３.画像、コメント投稿機能__
 
 →投稿のカテゴリー項目を増やすことも可能。
 
+<img width="1440" alt="スクリーンショット 2023-01-06 17 36 35" src="https://user-images.githubusercontent.com/111099062/210963450-5d8fa25a-4fed-4275-8c81-0cafc8a822af.png">
+
+
 
 
 
