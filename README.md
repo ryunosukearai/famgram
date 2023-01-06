@@ -24,6 +24,10 @@ __３.画像、コメント投稿機能__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 20 45" src="https://user-images.githubusercontent.com/111099062/210960207-23da5f82-cafc-45ef-a7a2-1bfa6549a8b7.png">
 
+→投稿のカテゴリー項目を増やすことも可能。
+
+
+
 
 __４.他者の投稿に対するLike、コメント機能__
 
@@ -33,13 +37,11 @@ __４.他者の投稿に対するLike、コメント機能__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 26 07" src="https://user-images.githubusercontent.com/111099062/210961637-fd3531f0-835d-415f-b5c0-3a996a4a94cb.png">
 
-→コメント欄に打ち込むと打ち込んだアカウント名、投稿した時間等が反映される
+→コメント欄に打ち込むと打ち込んだアカウント名、投稿した時間等が反映される.Deleteを押せば、コメント削除機能も有り。
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 31 40" src="https://user-images.githubusercontent.com/111099062/210962446-3f65edd1-e590-4b6a-b5bf-591fdddcd9c1.png">
 
-
-
-
+<img width="1440" alt="スクリーンショット 2023-01-06 17 32 05" src="https://user-images.githubusercontent.com/111099062/210962641-9a796a1c-8490-4674-9867-28ced4d09783.png">
 
 
 __５.__
