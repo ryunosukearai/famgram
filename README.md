@@ -52,6 +52,8 @@ __５.投稿されたものを管理__
 →投稿されたものを誰にも見れないようにしたりできる
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 37 07" src="https://user-images.githubusercontent.com/111099062/210963708-f02341be-2d68-4443-b12e-cc0f82e17ce6.png">
+<img width="1440" alt="スクリーンショット 2023-01-06 17 37 19" src="https://user-images.githubusercontent.com/111099062/210964258-64cedbd6-8463-436d-8c84-831c784606d3.png">
+
 
 
 
