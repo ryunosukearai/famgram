@@ -53,6 +53,9 @@ __５.投稿されたものを管理__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 37 07" src="https://user-images.githubusercontent.com/111099062/210963708-f02341be-2d68-4443-b12e-cc0f82e17ce6.png">
 <img width="1440" alt="スクリーンショット 2023-01-06 17 37 19" src="https://user-images.githubusercontent.com/111099062/210964258-64cedbd6-8463-436d-8c84-831c784606d3.png">
+<img width="1440" alt="スクリーンショット 2023-01-06 17 37 28" src="https://user-images.githubusercontent.com/111099062/210964368-03ef89c7-5970-4518-b807-3cf387ba91c1.png">
+<img width="1440" alt="スクリーンショット 2023-01-06 17 37 34" src="https://user-images.githubusercontent.com/111099062/210964384-6adbad97-0bc9-46e4-996f-e0419d228797.png">
+
 
 
 
