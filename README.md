@@ -15,6 +15,7 @@ __２.登録後画面 フォロー機能__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 16 39 07" src="https://user-images.githubusercontent.com/111099062/210958986-aa1c320f-0de6-4d6c-b1dc-e72ec1053272.png">
 
+
 __３.画像、コメント投稿機能__
 
 →　＋ボタンを押すと画像にコメントを添えて投稿できる画面に移動します。
@@ -23,7 +24,21 @@ __３.画像、コメント投稿機能__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 20 45" src="https://user-images.githubusercontent.com/111099062/210960207-23da5f82-cafc-45ef-a7a2-1bfa6549a8b7.png">
 
+
 __４.他者の投稿に対するLike、コメント機能__
+
+→ハートボタンを押すと色が変わり、カウント数も変わります。
+
+<img width="1440" alt="スクリーンショット 2023-01-06 17 25 46" src="https://user-images.githubusercontent.com/111099062/210960983-5f775494-c344-4b98-844b-bdef842db1df.png">
+
+
+
+__５.__
+
+→
+
+
+__６.__
 
 →
 
