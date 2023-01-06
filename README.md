@@ -21,6 +21,12 @@ __３.画像、コメント投稿機能__
 
 <img width="1440" alt="スクリーンショット 2023-01-06 17 20 19" src="https://user-images.githubusercontent.com/111099062/210959914-3ce14e2c-9d46-4c17-8fcc-fad5c4fa2606.png">
 
+<img width="1440" alt="スクリーンショット 2023-01-06 17 20 45" src="https://user-images.githubusercontent.com/111099062/210960207-23da5f82-cafc-45ef-a7a2-1bfa6549a8b7.png">
+
+__４.他者の投稿に対するLike、コメント機能__
+
+→
+
 
 
 
